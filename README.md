@@ -1,20 +1,20 @@
 # utrakdata/pet-names - JSON Dataset
 
-[![Latest Stable Version](https://poser.pugx.org/utrakdata/pet-names/v/stable)](https://packagist.org/packages/utrakdata/pet-names)
-[![Total Downloads](https://poser.pugx.org/utrakdata/pet-names/downloads)](https://packagist.org/packages/utrakdata/pet-names)
-[![Latest Unstable Version](https://poser.pugx.org/utrakdata/pet-names/v/unstable)](https://packagist.org/packages/utrakdata/pet-names)
-[![License](https://poser.pugx.org/utrakdata/pet-names/license)](https://packagist.org/packages/utrakdata/pet-names)
+[![Latest Stable Version](https://poser.pugx.org/utrak/utrakcron/v/stable)](https://packagist.org/packages/utrak/utrakcron)
+[![Total Downloads](https://poser.pugx.org/utrak/utrakcron/downloads)](https://packagist.org/packages/utrak/utrakcron)
+[![Latest Unstable Version](https://poser.pugx.org/utrak/utrakcron/v/unstable)](https://packagist.org/packages/utrak/utrakcron)
+[![License](https://poser.pugx.org/utrak/utrakcron/license)](https://packagist.org/packages/utrak/utrakcron)
 
 
 
-utrakdata/pet-names is a JSON dataset of 10000+ pet names, this can either be added to your project 
+utrak/utrakcron is a PHP Class for dealing with EasyCron 
 
 ## Installation
 
 Install the latest version with
 
 ```bash
-$ composer require utrakdata/pet-names
+$ composer require utrak/utrakcron
 ```
 
 ## Basic Usage
@@ -22,7 +22,7 @@ $ composer require utrakdata/pet-names
 
 ### Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [GitHub](https://github.com/paulsheldon/petNames/issues)
+Bugs and feature request are tracked on [GitHub](https://github.com/paulsheldon/utrakcron/issues)
 
 
 ### Author
@@ -31,7 +31,7 @@ Paul Sheldon - <paulsheldon1966@gmail.com> <br />
 
 ### License
 
-utrakdata/pet-names is licensed under the MIT License - see the `LICENSE` file for details
+utrak/utrakcron is licensed under the MIT License - see the `LICENSE` file for details
 
 ### Acknowledgements
 
