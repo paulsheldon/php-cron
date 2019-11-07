@@ -1,0 +1,21 @@
+{
+  "name": "utrak/utrakcron",
+  "type": "library",
+  "description": "utrakCron PHP Cron Class",
+  "keywords": [
+    "cron",
+    "EasyCron"
+  ],
+  "homepage": "https://github.com/paulsheldon/utrak/easycron",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paul Sheldon",
+      "email": "paulsheldon1966@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.0.0"
+  }
+}
